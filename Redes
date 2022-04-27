@@ -1,0 +1,11 @@
+#01 - MAC Address (Endereço da Placa de Rede)
+#02 - IP Adress (Endereço de Rede) -v4 | - v6
+#03 - Hostname (Nome do Computador)
+=====================================================================================================================================================================
+#01 - Ethernet 10 Mbps
+#02 - FastEthernet 10/100Mbps
+#03 - GigaEthernet 10/100/1000Mbps
+=====================================================================================================================================================================
+getmac: Busca todos os MAC do computador.
+Ipcongfig/all 
+Hostname: Nome do computador 
